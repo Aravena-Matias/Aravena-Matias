@@ -6,14 +6,15 @@ Estudiante de Ingeniería en Ciberseguridad apasionado por la seguridad de aplic
 
 ## 💼 Objetivos
 
-- Penetration Testing enfocado en SQL Injection, NoSQL Injection, XXE y Log Poisoning.
-
+- Ethical hacker
+- SOC Analyst
+  
 ## 📚 Aprendizaje Continuo
 
 Comprometido a seguir aprendiendo y mantenerme al día con las últimas tendencias y técnicas de seguridad.
 
 ## 📫 Contáctame
 
-Encuéntrame en [LinkedIn](https://www.linkedin.com/in/matias-aravena-aniñir-8316b2289/) o envíame un correo a [].
+Encuéntrame en [LinkedIn](https://www.linkedin.com/in/matias-aravena-aniñir-8316b2289/)
 
 ¡Gracias por visitar mi perfil de GitHub!
